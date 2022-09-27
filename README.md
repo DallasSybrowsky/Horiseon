@@ -42,6 +42,7 @@ Below are details on the methods I used to accomplish each of the items in the A
 5. The title element was changed to reflect the name of the company to provide a concise, descriptive title.
 
 ## Visuals
-Below is a screenshot of the refactored webiste: 
+Below is a screenshot of the refactored website: 
+
 <img width="400" alt="Screen Shot of Horiseon Website" src=".\assets\images\DSybrowsky Horiseon Page.png">
 
