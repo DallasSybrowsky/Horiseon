@@ -43,5 +43,5 @@ Below are details on the methods I used to accomplish each of the items in the A
 
 ## Visuals
 Below is a screenshot of the refactored webiste: 
-<img width="400" alt="Screen Shot of Horiseon Website" src=".assets\images\DSybrowsky Horiseon Page.png">
+<img width="400" alt="Screen Shot of Horiseon Website" src=".\assets\images\DSybrowsky Horiseon Page.png">
 
