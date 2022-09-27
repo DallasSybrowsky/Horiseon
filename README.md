@@ -41,8 +41,9 @@ Below are details on the methods I used to accomplish each of the items in the A
 
 5. The title element was changed to reflect the name of the company to provide a concise, descriptive title.
 
-## Visuals
+## Link
+Here is a link to the live site: https://dallassybrowsky.github.io/Horiseon/
+
 Below is a screenshot of the refactored website: 
 
-<img width="400" alt="Screen Shot of Horiseon Website" src=".\assets\images\DSybrowsky Horiseon Page.png">
-
+<img width="500" alt="Screen Shot of Horiseon Website" src=".\assets\images\DSybrowsky Horiseon Page.png">
