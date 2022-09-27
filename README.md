@@ -35,7 +35,7 @@ Below are details on the methods I used to accomplish each of the items in the A
 
 2. When updating the numerous div elements as mentioned above I updated the elements so that each one better described the purpose of the code on the page. For instance I updated one div element and changed it to an aside element. In another instance I changed a div to main as the code within that section was the main content of the page. 
 
-3. I ensured that the accessibility of the page was up to standard by updating the code within the img elements to include an alternative text for use with screen readers, as well as if the images or icons links are broken.
+3. I ensured that the accessibility of the page was up to standard by updating the code within the img elements to include an alternative text for use with screen readers, as well as if the links to the images or icons are broken.
 
 4. I updated the heading attirbutes in CSS to ensure they are in the correct order as shown in index.html.
 
